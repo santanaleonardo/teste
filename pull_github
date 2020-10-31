@@ -1,0 +1,11 @@
+
+no vscode adicionar iniciar repositorio
+adicionar repositorio remoto
+
+-- git init ?
+git remote add origin https://github.com/santanaleonardo/apiagendamento.git
+git branch -M master
+git pull origin master
+
+
+
